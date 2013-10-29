@@ -7,12 +7,13 @@ A Python wrapper for <a href="https://www.tradeking.com/">TradeKing</a> API
 
 ## Author
 
-Author: <a href="http://www.nicholaskuechler.com/">Nicholas Kuechler</a>
+<a href="http://www.nicholaskuechler.com/">Nicholas Kuechler</a>
 
 ## Requirements
 
 * oauth2
 * argparse (for the demo quotes example)
+
 
     pip install oauth2
     pip install argparse
