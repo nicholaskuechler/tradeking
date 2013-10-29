@@ -14,6 +14,7 @@ A Python wrapper for <a href="https://www.tradeking.com/">TradeKing</a> API
 * oauth2
 * argparse (for the demo quotes example)
 
+You can install them with pip:
 
     pip install oauth2
     pip install argparse
